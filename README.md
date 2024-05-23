@@ -37,7 +37,13 @@ pip install -r requirements.txt
 Navigate to the examples directory and run the example scripts to see the different representation methods in action.
 
 ## Documentation
-Detailed documentation for each representation method is available in the docs directory. This includes descriptions of the methods, usage instructions, and example code.
+Detailed documentation for each representation method is available in the docs directory. This includes descriptions of the methods, usage instructions, screenshots of the repository structure, example outputs, or any relevant visual aids to help users understand the project better.
+
+## Discussion
+In this section, discuss the impact and potential applications of the different representation methods. Highlight the strengths and limitations of each method and how they can be used in different machine learning contexts.
+
+## Conclusion
+Summarize the key points of the project, the importance of the representation methods, and future directions for research or development. Emphasize the contribution of the OptiMal project to the field of machine learning and data representation.
 
 ## Contribution
 We welcome contributions to this repository! If you have a new representation method to add or improvements to existing methods, please fork the repository and submit a pull request. Ensure your contributions adhere to the coding standards and are well-documented.
