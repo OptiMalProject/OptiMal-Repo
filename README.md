@@ -34,7 +34,8 @@ Install the required packages using pip:
 pip install -r requirements.txt
 
 ## Usage
-Navigate to the examples directory and run the example scripts to see the different representation methods in action.
+
+Navigate to the `examples` directory and run the example scripts to see the different representation methods in action. 
 
 ## Documentation
 Detailed documentation for each representation method is available in the docs directory. This includes descriptions of the methods, usage instructions, screenshots of the repository structure, example outputs, or any relevant visual aids to help users understand the project better.
