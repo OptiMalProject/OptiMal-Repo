@@ -32,6 +32,7 @@ Then, navigate to the repository directory:
 cd OptiMal-Repo
 Install the required packages using pip:
 pip install -r requirements.txt
+```
 
 ## Usage
 
