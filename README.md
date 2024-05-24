@@ -28,9 +28,13 @@ The repository is organized as follows:
 To use the code in this repository, first clone the repository to your local machine:
 ```bash
 git clone https://github.com/OptiMalProject/OptiMal-Repo.git
+```
 Then, navigate to the repository directory:
+```bash
 cd OptiMal-Repo
+```
 Install the required packages using pip:
+```bash
 pip install -r requirements.txt
 ```
 
