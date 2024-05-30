@@ -20,8 +20,6 @@ The OptiMal project aims to develop generative AI algorithms capable of creating
 ## Repository Structure
 The repository is organized as follows:
 - `src/`: Contains source code for the various representation methods.
-- `examples/`: Contains example scripts demonstrating how to use the representation methods.
-- `docs/`: Contains documentation for the repository.
 - `README.md`: This file, providing an overview and instructions.
 
 ## Installation
@@ -33,6 +31,10 @@ Then, navigate to the repository directory:
 ```bash
 cd OptiMal-Repo
 ```
+Create a Anaconda environment:
+```bash
+conda create -n OptiMal python==3.11
+```
 Install the required packages using pip:
 ```bash
 pip install -r requirements.txt
@@ -40,10 +42,10 @@ pip install -r requirements.txt
 
 ## Usage
 
-Navigate to the `examples` directory and run the example scripts to see the different representation methods in action. 
+Navigate to the relevant `src` Python notebook to get started with the different representation methods. Each notebook contains all the necessary information for each method.
 
 ## Documentation
-Detailed documentation for each representation method is available in the docs directory. This includes descriptions of the methods, usage instructions, screenshots of the repository structure, example outputs, or any relevant visual aids to help users understand the project better.
+Detailed documentation for each representation method is available in the notebooks. This includes descriptions of the methods, usage instructions, example outputs, or any relevant visual aids to help users understand the project better.
 
 ## Discussion
 In this section, discuss the impact and potential applications of the different representation methods. Highlight the strengths and limitations of each method and how they can be used in different machine learning contexts.
