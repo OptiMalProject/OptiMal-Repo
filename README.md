@@ -14,7 +14,6 @@ The OptiMal project aims to develop generative AI algorithms capable of creating
 - Sequence Mining (Frequent Subsequences)
 - N-grams
 - Markov Chains
-- Non-ANN Gaussian Models
 - Graph-based Representations
 
 ## Repository Structure
